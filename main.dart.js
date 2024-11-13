@@ -77807,7 +77807,7 @@ A.afe.prototype={
 $0(){return this.a.v7(!1)},
 $S:0}
 A.afc.prototype={
-$4(a,b,c,a0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="#,##0.00"
+$4(a,b,c,a0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="#,##0.000000"
 if(b.c)return B.l6
 s=b.d
 if(s.length!==0)return A.lf(A.nu(A.b([A.dR(s,e,e,e,B.ho,e,e),new A.H0(new A.af9(b),e,e,e,e,e,e,!1,e,!0,B.QS,e)],t.p),B.b2,B.ei,B.b5),e,e)
